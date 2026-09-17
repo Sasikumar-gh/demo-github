@@ -5,4 +5,4 @@ ENTRYPOINT
 test edit
 WORKDIR
 ##putting comments##
-AUTHORNAME: skillfyme
+AUTHOR_NAME: skillfyme
